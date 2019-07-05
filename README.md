@@ -1,2 +1,2 @@
 # hello-world
-Tutorial to learn GitHub
+I've started learning HTML, CSS and Javascript. Excited to keep learning!
